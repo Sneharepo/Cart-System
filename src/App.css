@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.dropmenu
+{
+  width:400px;
+  margin-left: -150px;
+  border: 1px solid gray;
+}
